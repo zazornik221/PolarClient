@@ -1,4 +1,4 @@
-# PolarClient
+# PolarClient, polar v3
 Polar Client is the most convenient and professional client for hypixel skyblock
 
 # [Download](https://github.com/zazornik221/PolarClient/releases/download/Download/PolarClient.jar)
